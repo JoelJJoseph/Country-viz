@@ -2,9 +2,9 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans&display=swap');
 
 body {
-    background: rgb(95, 174, 219);
-    color:rgb(16, 92, 105); 
-    font-family: 'Poiret One', sans-serif;
+    background: rgb(241, 241, 241);
+    color:rgb(13, 13, 14); 
+    font-family: 'Roboto', Medium 500;
 }
 
 .card {
